@@ -1,0 +1,12 @@
+{
+    "5cd8266e-cf14-5833-5b11-519f986bb2f4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Buzzy_Bee_Thumb.tex.nasset"
+    },
+    "d97bb448-caf1-44d6-abe5-a47396fb071f": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin"
+    },
+    "guid": "eb8d04ee-f607-a7e6-6302-8284e21c58a8"
+}
